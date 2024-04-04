@@ -2,7 +2,7 @@
 
 #imagenet and econet dataset have been splitted into training and validation subset
 
-#i havent extracted the imagenet dataset yet
+#I havent "extracted" the imagenet dataset on lambda yet
 
 import torch
 import torch.nn as nn
